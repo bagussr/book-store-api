@@ -1,0 +1,12 @@
+# __pycache__
+/book_store/__pycache__
+/book_store/src/__pycache__
+/book_store/src/__pycache__
+/book_store/src/models/__pycache__
+/book_store/src/routes/__pycache__
+/book_store/src/schemas/__pycache__
+/book_store/src/handler/__pycache__
+
+# alembic migrations
+/**/alembic
+/**/alembic.**
