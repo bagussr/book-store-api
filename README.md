@@ -2,14 +2,14 @@
 
 
 ## Dependecy
--fastapi(0.79.0)
--fastapi_jwt_auth(0.5.0)
--pydantic(1.9.1)
--python-dotenv(0.20.0)
--python_bcrypt(0.3.2)
--SQLAlchemy(1.4.39)
--uvicorn(0.18.2)
--alembic(1.8.1)
+- fastapi(0.79.0)
+- fastapi_jwt_auth(0.5.0)
+- pydantic(1.9.1)
+- python-dotenv(0.20.0)
+- python_bcrypt(0.3.2)
+- SQLAlchemy(1.4.39)
+- uvicorn(0.18.2)
+- alembic(1.8.1)
 
 
 ## Install Requierement
